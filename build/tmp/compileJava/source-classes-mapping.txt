@@ -1,0 +1,6 @@
+exercise6/exe01/exerciseTest.java
+ exercise6.exe01.exerciseTest
+exercise07/set/exeTest.java
+ exercise07.set.exeTest
+exercise07/set/Solution.java
+ exercise07.set.Solution
